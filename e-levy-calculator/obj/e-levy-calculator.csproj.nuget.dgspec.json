@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elijahamoako/Projects/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj": {}
+    "/Users/elijahamoako/Projects/PORTFOLIO/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj": {}
   },
   "projects": {
-    "/Users/elijahamoako/Projects/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj": {
+    "/Users/elijahamoako/Projects/PORTFOLIO/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elijahamoako/Projects/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj",
+        "projectUniqueName": "/Users/elijahamoako/Projects/PORTFOLIO/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj",
         "projectName": "e-levy-calculator",
-        "projectPath": "/Users/elijahamoako/Projects/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj",
+        "projectPath": "/Users/elijahamoako/Projects/PORTFOLIO/e-levy-calculator/e-levy-calculator/e-levy-calculator.csproj",
         "packagesPath": "/Users/elijahamoako/.nuget/packages/",
-        "outputPath": "/Users/elijahamoako/Projects/e-levy-calculator/e-levy-calculator/obj/",
+        "outputPath": "/Users/elijahamoako/Projects/PORTFOLIO/e-levy-calculator/e-levy-calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elijahamoako/.nuget/NuGet/NuGet.Config"

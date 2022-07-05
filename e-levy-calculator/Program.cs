@@ -3,7 +3,7 @@
 do
 {
     double result = 0;
-    Console.Write("Enter a amount: ");
+    Console.Write("Enter an amount: ");
     double amount = Convert.ToDouble(Console.ReadLine());
 
     if (amount > 100)
